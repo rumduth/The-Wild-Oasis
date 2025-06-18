@@ -1,4 +1,4 @@
-# 🏨 The Wild Oasis
+# 🏨 The Wild Oasis : https://the-wild-oasis-rum-duth.netlify.app/dashboard
 
 A modern hotel management system built with React, designed to streamline hotel operations including cabin management, bookings, guest check-ins/check-outs, and comprehensive dashboard analytics.
 
